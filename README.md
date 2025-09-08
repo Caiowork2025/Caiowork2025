@@ -24,7 +24,7 @@
 ## 🚀 Projetos em Destaque
 📌 Alguns repositórios que mostram meu aprendizado:  
 
-- 🔢 [Calculadora em C](https://github.com/Caiowork2025/IMC)  
+- 🔢 [Calculadora em C em Float](https://github.com/Caiowork2025/IMC)  
 - 🌐 [Site simples em HTML](https://github.com/Caiowork2025/HTML-Site)  
 - 🐍 [Scripts em Python](https://github.com/Caiowork2025/Python-Scripts)  
 
